@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ERPHome</string>
+    <string name="item">Item</string>
+    <string name="action_settings">Settings</string>
+</resources>
